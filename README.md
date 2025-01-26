@@ -66,6 +66,8 @@ finance_agentic_ai/
 │   └── config.toml
 └── static/                  # Saved plots and static files
 
+finance_agentic_ai/ ├── app.py # Main Streamlit app script ├── requirements.txt # Project dependencies ├── README.md # Project documentation ├── .streamlit/ # Streamlit configuration files │ └── config.toml └── static/ # Saved plots and static files
+
 ## **Future Enhancements**
 Add support for more complex financial metrics like P/E ratios, EPS, and market cap.
 Integrate additional APIs for advanced financial data.

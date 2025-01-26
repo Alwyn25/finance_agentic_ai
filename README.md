@@ -1,6 +1,6 @@
 # **Finance Agentic AI**  
 An AI-powered financial analysis and visualization tool to explore stock trends, compare analyst recommendations, and fetch real-time financial insights.
-
+Link to the app: https://financial-agentic-ai.streamlit.app/
 ---
 
 ## **Features**

@@ -57,16 +57,7 @@ Use a query like Compare NVDA and AAPL to see side-by-side comparisons of analys
 | Compare NVDA and AAPL                      | Compares analyst recommendations for NVDA and AAPL.        |
 | Get stock data for GOOG                    | Fetches historical stock data and plots trends for GOOG.   |
 
-## **Project Structure**
-finance_agentic_ai/
-├── app.py                   # Main Streamlit app script
-├── requirements.txt         # Project dependencies
-├── README.md                # Project documentation
-├── .streamlit/              # Streamlit configuration files
-│   └── config.toml
-└── static/                  # Saved plots and static files
 
-finance_agentic_ai/ ├── app.py # Main Streamlit app script ├── requirements.txt # Project dependencies ├── README.md # Project documentation ├── .streamlit/ # Streamlit configuration files │ └── config.toml └── static/ # Saved plots and static files
 
 ## **Future Enhancements**
 Add support for more complex financial metrics like P/E ratios, EPS, and market cap.
